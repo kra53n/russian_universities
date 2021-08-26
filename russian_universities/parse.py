@@ -83,7 +83,3 @@ def parse_vuzoteka():
         result.append(parse_institute_rows(soup))
 
     return result
-
-
-if __name__ == "__main__":
-    print(parse_vuzoteka())
