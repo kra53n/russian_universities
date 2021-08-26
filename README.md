@@ -1,2 +1,2 @@
-# russian_universities
-Parser of vuzoteka website
+# Парсер [Вузотеки](https://vuzoteka.ru/)
+
